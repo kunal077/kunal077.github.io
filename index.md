@@ -1,5 +1,2 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+There are not many gigantic plans, the idea is to share the learning about some of the things that I like to work upon
+something like, Data Science, Artificial Intelligence, FinTech and Consulting.
