@@ -37,9 +37,7 @@ titles_from_headings:
 defaults:
   - scope:
       path: ""
-      type: "posts"
+      type: posts
     values:
-      layout: "post"
       tags: Other
-      comments: true
-      
+            
