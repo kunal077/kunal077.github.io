@@ -26,6 +26,9 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-analytics
+  
 
 titles_from_headings:
   strip_title: true
