@@ -19,8 +19,6 @@ linkedin_username: "kunal-sharma-469962166"
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 
-theme: "minima"
-
 rss: rss
 
 remote_theme: pages-themes/architect@v0.2.0
