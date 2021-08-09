@@ -15,17 +15,13 @@ linkedin_username: "kunal-sharma-469962166"
 #youtube_username: username
 #googleplus_username: +username
 
-#########################################################################################
-######### Nothing below needs to be changed (unless you know what you're doing) #########
-#########################################################################################
-
 theme: jekyll-theme-hacker
 
 rss: rss
 
 kramdown:
   syntax_highlighter_opts:
-    disable: false
+    disable: true
     
 plugins:
   - jekyll-feed
