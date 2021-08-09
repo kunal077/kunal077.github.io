@@ -1,4 +1,4 @@
-title: "Data Driven"
+itle: "Data Driven"
 author: "Kunal Sharma"
 description: "Something about Data Science and Co." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
@@ -18,10 +18,9 @@ linkedin_username: "kunal-sharma-469962166"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
+theme: "minima"
 
 rss: rss
-
-remote_theme: pages-themes/architect@v0.2.0
 
 kramdown:
   syntax_highlighter_opts:
@@ -30,7 +29,6 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 titles_from_headings:
   strip_title: true
