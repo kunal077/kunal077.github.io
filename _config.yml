@@ -25,10 +25,7 @@ kramdown:
     
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-analytics
-  
+  - jekyll-sitemap  
 
 titles_from_headings:
   strip_title: true
