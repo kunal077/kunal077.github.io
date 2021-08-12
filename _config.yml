@@ -15,7 +15,10 @@ linkedin_username: "kunal-sharma-469962166"
 #youtube_username: username
 #googleplus_username: +username
 
-theme: jekyll-theme-hacker
+#########################################################################################
+######### Nothing below needs to be changed (unless you know what you're doing) #########
+#########################################################################################
+theme: "minima"
 
 rss: rss
 
@@ -25,7 +28,7 @@ kramdown:
     
 plugins:
   - jekyll-feed
-  - jekyll-sitemap  
+  - jekyll-sitemap
 
 titles_from_headings:
   strip_title: true
