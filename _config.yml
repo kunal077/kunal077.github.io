@@ -1,3 +1,6 @@
+
+theme: "minima"
+
 title: "Data Driven"
 author: "Kunal Sharma"
 description: "Something about Data Science and Co." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
@@ -18,8 +21,6 @@ linkedin_username: "kunal-sharma-469962166"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-
-theme: jekyll-theme-minima
 
 rss: rss
 
