@@ -8,3 +8,5 @@
 <br><br>
 1. **Space Operations: A challenge for Machine Learning** <br>
 A great number of discovery and assistance tools required in this field are autonomous robotic system developed to assist Astronauts and the Analysis teams that are behind the mission. Autonomy is critical in these mission to our limited capacity. 
+
+2. **Existing ML and AI Techniques in Space Research**
