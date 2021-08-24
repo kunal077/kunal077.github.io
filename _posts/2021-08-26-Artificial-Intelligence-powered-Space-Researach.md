@@ -7,6 +7,14 @@
 ![Space Image 1](https://www.razorrobotics.com/wordpress/wp-content/uploads/2017/02/space-robot-rover.jpg)
 <br><br>
 1. **Space Operations: A challenge for Machine Learning** <br>
-A great number of discovery and assistance tools required in this field are autonomous robotic system developed to assist Astronauts and the Analysis teams that are behind the mission. Autonomy is critical in these mission to our limited capacity. 
+A great number of discovery and assistance tools required in this field are autonomous robotic system developed to assist Astronauts and the Analysis teams that are behind the mission. Autonomy is critical in these mission to our limited capacity. The teleoperation is cost sensitive and also there is a large communication delay between the environment and the operator. The external aid and repairing capacity are limited in near future. Some of the open ended questions are - 
+<ul>
+<li>What approaches are currently available that are appropriate for this setting? What constraints do they have?
+</li>
+<li>How can the demand for safety be incorporated?<</li>
+<li>How can we strike a balance between possible risks and benefits?</li>
+</ul>
+The space applications area is expected to necessitate novel approaches to machine learning challenges and solutions.
 
 2. **Existing ML and AI Techniques in Space Research**
+Autonomous operation helps a remote spacecraft to observe its environment and make independent decisions about which actions to take and what data is important enough to be collected
