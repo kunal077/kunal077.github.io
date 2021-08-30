@@ -25,3 +25,6 @@ Autonomous operation helps a remote spacecraft to observe its environment and ma
 The majorly identified area of conjugated research can be Image Analysis, Time Series Analysis, Classification, Clustering, Reinforcement Learning, Ranking, Active Learning, Interospective Learning, Multi-Instument ensemble learning. Along with these capacitites the challenges of limited Processing power, limited memory capacity, high-radiation environment, long round trup communication delays and high cost of failure and fault tolerance and embedded operation needs to be addressed. 
 
 -> **An Example : Onboard Object Recognition for Planetary Exploration**
+The above mentioned research paper provides an example of machine learning research inspired by the needs of actual space missions. This paper procides an SVm-based technique for identifying craters that directly addressess the limited computation and memory of radiation-hardened processors. The authors of the paper proposed a novel Fast Fourier Transform (FFT) technique that enables the SVM to run much more efficiently and within the limits of onboard processing capabilitites. As compared to Neural Networks and vanilla SVMs, the FFT SVM provided a much improved computational capactities. 
+
+-> **Call to Action**
