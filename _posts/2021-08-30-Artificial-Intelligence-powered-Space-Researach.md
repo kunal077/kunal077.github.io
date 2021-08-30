@@ -1,4 +1,4 @@
-# Discussion on the research paper "Machine Learning in Space: Extending our reach"
+# Insights from the research on "Machine Learning in Space: Extending our reach"
 ## Authors: Amy McGovern, Kiri L. Wagstaff
 
 **Abstract** <br>
