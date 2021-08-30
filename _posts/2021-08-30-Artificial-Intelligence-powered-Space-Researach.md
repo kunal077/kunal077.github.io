@@ -23,3 +23,5 @@ Autonomous operation helps a remote spacecraft to observe its environment and ma
 
 -> **Opportunities for Machine Learning and Artificial Intelligence in Space**
 The majorly identified area of conjugated research can be Image Analysis, Time Series Analysis, Classification, Clustering, Reinforcement Learning, Ranking, Active Learning, Interospective Learning, Multi-Instument ensemble learning. Along with these capacitites the challenges of limited Processing power, limited memory capacity, high-radiation environment, long round trup communication delays and high cost of failure and fault tolerance and embedded operation needs to be addressed. 
+
+-> **An Example : Onboard Object Recognition for Planetary Exploration**
