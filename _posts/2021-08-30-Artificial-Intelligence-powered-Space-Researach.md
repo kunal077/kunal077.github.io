@@ -24,8 +24,18 @@ Autonomous operation helps a remote spacecraft to observe its environment and ma
 -> **Opportunities for Machine Learning and Artificial Intelligence in Space**
 The majorly identified area of conjugated research can be Image Analysis, Time Series Analysis, Classification, Clustering, Reinforcement Learning, Ranking, Active Learning, Interospective Learning, Multi-Instument ensemble learning. Along with these capacitites the challenges of limited Processing power, limited memory capacity, high-radiation environment, long round trup communication delays and high cost of failure and fault tolerance and embedded operation needs to be addressed. 
 
+<br><br>
+![Crater Image 1](https://www.mdpi.com/remotesensing/remotesensing-10-01067/article_deploy/html/images/remotesensing-10-01067-g009.png)
+<br><br>
+
+
 -> **An Example : Onboard Object Recognition for Planetary Exploration**
 The above mentioned research paper provides an example of machine learning research inspired by the needs of actual space missions. This paper procides an SVm-based technique for identifying craters that directly addressess the limited computation and memory of radiation-hardened processors. The authors of the paper proposed a novel Fast Fourier Transform (FFT) technique that enables the SVM to run much more efficiently and within the limits of onboard processing capabilitites. As compared to Neural Networks and vanilla SVMs, the FFT SVM provided a much improved computational capactities. 
 
 -> **Call to Action**
-Advanced machine learning approaches for space applications are needed, according to this editorial. Machine learning has the potential to substantially enhance the capabilities of these missions, as well as to enable bold new exploration that is now impossible. The authors urge the machine learning community to work together to solve problems.
+Advanced machine learning approaches for space applications are needed, according to this editorial. Machine learning has the potential to substantially enhance the capabilities of these missions, as well as to enable bold new exploration that is now impossible. The authors urge the machine learning community to work together to solve problems - 
+<ul>
+<li>Develop novel machine learning concepts and methods to tackle the specific difficulties of the space environment.</li>
+<li>Find new space applications where machine learning may improve capability, robustness, and/or efficiency.</li>
+<li>To build trust in the remote functioning of these approaches in a mission-critical situation, implement suitable assessment and validation methodologies.</li>
+</ul>
