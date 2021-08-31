@@ -37,10 +37,10 @@ markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
 
+```C
+#include<iostream.h>
+struct strt{};
+```
+
 <script src="https://emgithub.com/embed.js?target=https%3A%2F%2Fgithub.com%2Fkunal077%2FScalable-Data-Science%2Fblob%2Fmain%2FMisra%2520Greetch%2520and%2520Bloom%2520Filters%2FBloom_Filter.py&style=github&showBorder=on&showLineNumbers=on&showFileMeta=on&showCopy=on"></script>
 
-
-```python
-def __init__(self, namedTuple):
-    seld.namedTuple = namedTuple
-```
