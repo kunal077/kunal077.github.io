@@ -43,3 +43,9 @@ puts markdown.to_html
 
 
 {% gist 66d01de9c017489ab93335f54cce560d %}
+
+
+```python
+def __init__(self, namedTuple):
+    seld.namedTuple = namedTuple
+```
