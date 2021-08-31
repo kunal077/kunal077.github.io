@@ -37,13 +37,7 @@ markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
 
-<!--<script src="https://gist.github.com/kunal077/66d01de9c017489ab93335f54cce560d.js"></script>
--->
-
 <script src="https://emgithub.com/embed.js?target=https%3A%2F%2Fgithub.com%2Fkunal077%2FScalable-Data-Science%2Fblob%2Fmain%2FMisra%2520Greetch%2520and%2520Bloom%2520Filters%2FBloom_Filter.py&style=github&showBorder=on&showLineNumbers=on&showFileMeta=on&showCopy=on"></script>
-
-
-{% gist 66d01de9c017489ab93335f54cce560d %}
 
 
 ```python
