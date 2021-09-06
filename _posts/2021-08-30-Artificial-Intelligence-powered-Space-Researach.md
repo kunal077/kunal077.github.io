@@ -1,7 +1,5 @@
-# Insights from the research on "Machine Learning in Space: Extending our reach"
-## Authors: Amy McGovern, Kiri L. Wagstaff
-
-**Abstract** <br>
+# Insights from the research on "Machine Learning in Space: Extending our reach by Amy McGovern, Kiri L. Wagstaff"
+<br>**ABSTRACT** <br>
 *The challenge of using Machine Learning effectively in space applicationcs can help the domain for future research endeavours ML can help build an autonomy to improve the duration, reliability, cost effectiveness and in general the overall field, for the machine learning researchers the key task is to identify new methods and scientific techniques of applying machine learning solutions and approaches to help the field advance.*
 <br><br>
 <p align="center" width="100%">
@@ -43,3 +41,5 @@ Advanced machine learning approaches for space applications are needed, accordin
 <li>Find new space applications where machine learning may improve capability, robustness, and/or efficiency.</li>
 <li>To build trust in the remote functioning of these approaches in a mission-critical situation, implement suitable assessment and validation methodologies.</li>
 </ul>
+<br>
+<h2><strong>Written By: Kunal Sharma</strong></h2>
