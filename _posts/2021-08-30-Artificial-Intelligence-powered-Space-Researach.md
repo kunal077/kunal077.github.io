@@ -42,4 +42,4 @@ Advanced machine learning approaches for space applications are needed, accordin
 <li>To build trust in the remote functioning of these approaches in a mission-critical situation, implement suitable assessment and validation methodologies.</li>
 </ul>
 <br>
-<h2><strong>Written By: Kunal Sharma</strong></h2>
+<h3><strong>Written By: Kunal Sharma</strong></h3>
